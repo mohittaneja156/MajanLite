@@ -271,33 +271,3 @@
 
   }
 }
-
-@media screen and (max-width: 1240px) {
-.header-container {
-  flex-direction: column;
-  align-items: center;
-}
-
-.header ul {
-  flex-direction: column;
-  align-items: center;
-}
-
-.header li {
-  margin: 10px 0;
-}
-
-.header-text h2 {
-  font-size: 50pt;
-}
-.cards { grid-template-columns: repeat(2, 1fr);
-
-}
-
-}
-
-
-
-
-
-
