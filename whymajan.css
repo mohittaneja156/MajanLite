@@ -147,7 +147,30 @@
   color: black;
 }
 
+.card img{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.card2 img{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
 
+
+.txt{
+  background-color: f8f8f8;
+  color: #554d40;
+  text-align: center;
+  font-size: 16pt;
+  font-weight: 500;
+}
+.txt p{
+  margin: 2%;
+}
 
 
 
@@ -268,6 +291,8 @@
   .logo{
   margin: 0px;
   height: 100px;
-
+  }
+  .txt p{
+    margin-top: 0.5%;
   }
 }
